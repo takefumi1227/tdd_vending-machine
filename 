@@ -1,0 +1,79 @@
+[33mcommit 213183dbdd9d25653b2bbf51718fb1b6d8f54d8e[m[33m ([m[1;36mHEAD -> [m[1;32mtaketest[m[33m)[m
+Author: takefumi1227 <spot.tb.soccer.take@gmail.com>
+Date:   Thu Sep 24 10:43:42 2020 +0900
+
+    test of take
+
+[33mcommit 14267acc6c1a7f50fe4423c2b9550786c2adf196[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 13935af 4098479
+Author: takefumi1227 <spot.tb.soccer.take@gmail.com>
+Date:   Thu Sep 24 10:26:57 2020 +0900
+
+     branch 'master' of https://github.com/takefumi1227/tdd_vending-machine
+
+[33mcommit 13935af8201c01dea5531ae746df70bab393ddd0[m
+Author: takefumi1227 <spot.tb.soccer.take@gmail.com>
+Date:   Thu Sep 24 10:25:06 2020 +0900
+
+    疎通確認
+
+[33mcommit 4098479285dd81b5df8d8d94220e233a55d990c5[m
+Merge: 2c8f065 71eaec5
+Author: Toma Hasei <toma.hasei@ariseanalytics.com>
+Date:   Thu Sep 24 09:58:03 2020 +0900
+
+    Merge branch 'master' of https://github.com/takefumi1227/tdd_vending-machine into master
+
+[33mcommit 2c8f065901b41639841ee581eff60f923ccb855b[m
+Author: Toma Hasei <toma.hasei@ariseanalytics.com>
+Date:   Thu Sep 24 09:56:50 2020 +0900
+
+    ”疎通確認”
+
+[33mcommit 163527c6d7bf31810efcec139a0021a42f800999[m
+Author: takefumi1227 <takefumi.suzuki@suzukitakeshinoMacBook-Pro.local>
+Date:   Wed Sep 23 19:53:24 2020 +0900
+
+    疎通確認
+
+[33mcommit 71eaec55be95efcc9b029f6c695a55c9e5a234f3[m
+Author: masahh <masaru.yoshioka@ariseanalytics.com>
+Date:   Wed Sep 23 19:30:16 2020 +0900
+
+    疎通確認
+
+[33mcommit f15c742f3b503cf04602cad2a04ce8dc3025ead2[m
+Author: Toma Hasei <toma.hasei@ariseanalytics.com>
+Date:   Wed Sep 23 15:23:50 2020 +0900
+
+    "空のコミット　テスト用"
+
+[33mcommit 6321c61ada2f21e62ad32b4e9593779cbd4a7347[m
+Author: takefumi1227 <takefumi.suzuki@suzukitakeshinoMacBook-Pro.local>
+Date:   Fri Sep 18 20:15:38 2020 +0900
+
+    take_test
+
+[33mcommit 7b79ae0953d22e96d3524953e10d6d78b623a43c[m
+Author: yamap55 <tetuya120@hotmail.com>
+Date:   Wed Sep 9 16:07:42 2020 +0900
+
+    [add] ref document
+
+[33mcommit 51fa63bc75247fecbf71a4300b08402fa318aeff[m
+Author: yamap55 <tetuya120@hotmail.com>
+Date:   Mon Aug 3 22:48:13 2020 +0900
+
+    [update] setting false for source.organizeImports
+
+[33mcommit 2a57bab2a8d2f5062c15057e0800e9c0e3bcfbde[m
+Author: yamap55 <tetuya120@hotmail.com>
+Date:   Mon Aug 3 22:25:59 2020 +0900
+
+    settings
+
+[33mcommit 02c18c5ffb8ee36989bf40d1914e09088645fc99[m
+Author: yamap55 <tetuya120@hotmail.com>
+Date:   Fri Jul 31 14:44:33 2020 +0900
+
+    Initial commit
