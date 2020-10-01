@@ -8,3 +8,6 @@ class VendingMachine:
         if insert_money not in self.ALLOWED_MONEY_LIST:
             return False
         return True
+
+    def insert(self, money):
+        pass
