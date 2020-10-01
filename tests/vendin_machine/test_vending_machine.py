@@ -39,6 +39,15 @@ def test_invalid_money():
     assert not result
 
 
+def test_multi_insert_money():
+    """
+    複数回投入
+    """
+    vending_machine = VendingMachine()
+    money = {10: 1, 50: 0, 100: 1, 500: 0, 1000: 0}
+    vending_machine.insert(money)
+
+
 # 複数回投入
 # 投入・投入金額の総計
 
