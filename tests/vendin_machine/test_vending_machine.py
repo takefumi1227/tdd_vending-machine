@@ -46,6 +46,19 @@ def test_multi_insert_money():
     vending_machine = VendingMachine()
     money = {10: 1, 50: 0, 100: 1, 500: 0, 1000: 0}
     vending_machine.insert(money)
+    assert True
+
+
+def test_total_money():
+    """
+    投入金額の総計
+    """
+    vending_machine = VendingMachine()
+    money = {10: 1, 50: 0, 100: 1, 500: 0, 1000: 0}
+    vending_machine.insert(money)
+    actual = vending_machine.get_total()
+    expected = 0
+    assert actual == expected
 
 
 # 複数回投入
