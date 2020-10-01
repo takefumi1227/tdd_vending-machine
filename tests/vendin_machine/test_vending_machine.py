@@ -2,6 +2,12 @@ import pytest
 
 from vending_machine.hoge.vending_machine import VendingMachine
 
+# 自販機に金額を投入できることを確認するテスト
+def test_insert_money():
+    vending_machine = VendingMachine()
+    vending_machine.insert(100)
+
+
 # 【Vending Machineの機能】10円、100円、XX
 ## テスト内容:指定された金額は受け入れて、それ以外はErrorを起こすテスト
 insert_money_list = [
